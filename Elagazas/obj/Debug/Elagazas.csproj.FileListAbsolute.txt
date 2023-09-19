@@ -1,0 +1,7 @@
+D:\suli\c#\Elagazas\Elagazas\bin\Debug\Elagazas.exe.config
+D:\suli\c#\Elagazas\Elagazas\bin\Debug\Elagazas.exe
+D:\suli\c#\Elagazas\Elagazas\bin\Debug\Elagazas.pdb
+D:\suli\c#\Elagazas\Elagazas\obj\Debug\Elagazas.csproj.AssemblyReference.cache
+D:\suli\c#\Elagazas\Elagazas\obj\Debug\Elagazas.csproj.CoreCompileInputs.cache
+D:\suli\c#\Elagazas\Elagazas\obj\Debug\Elagazas.exe
+D:\suli\c#\Elagazas\Elagazas\obj\Debug\Elagazas.pdb
